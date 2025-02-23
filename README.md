@@ -10,7 +10,7 @@ Some Notables Mods are:
 
 - Galacticraft with multiple addons (several galaxies to visit atleast 20+ Planets!)
 
-- The Betweenlands
+- The Betweenlands [REMOVED] , REPLACEMENT: Scape and Run Parasites
 
 - Immersive Vehicles with a lot of addons. Includes sport cars, industrial, military, planes, helicopters etc.
 
